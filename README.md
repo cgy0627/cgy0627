@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=GeunYoung&fontSize=90" />
 
 <div align="center">
   
-  ![GY's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=cgy0627&show_icons=true&theme=radical)
- 
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=GeunYoung&fontSize=90" />
 
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cgy0627)](https://solved.ac/cgy0627)
+  
+  ![GY's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=cgy0627&show_icons=true&theme=radical)
 
 </div>
 
