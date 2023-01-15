@@ -21,13 +21,9 @@ Here are some ideas to get you started:
   
   ![GY's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=cgy0627&show_icons=true&theme=radical)
  
-  <span>
-    [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cgy0627)](https://solved.ac/cgy0627)
-  </span>
-  <span>
-    
-  </span>
- 
+
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cgy0627)](https://solved.ac/cgy0627)
+
 </div>
 
  
