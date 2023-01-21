@@ -19,11 +19,13 @@ Here are some ideas to get you started:
 
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=GeunYoung&fontSize=90" />
+  ![Name Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=GeunYoung&fontSize=90&animation=fadeIn&fontAlignY=34&desc=Welcome%20to%20my%20Github!&descAlignY=51&descAlign=52)
 
   ![GY's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=cgy0627&show_icons=true&theme=radical)
+  
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cgy0627)](https://solved.ac/cgy0627)
-
+  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cgy0627&layout=compact)
+  
 <!--  https://soo-vely-dev.tistory.com/159 참고 -->
   # 💪Skills
   ### Languages & Frameworks
@@ -57,7 +59,8 @@ Here are some ideas to get you started:
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jennygychae@gmail.com)](mailto:jennygychae@gmail.com)
 <!--   [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/) -->
 
-
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+  
 </div>
 
  
