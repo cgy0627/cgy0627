@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://hits.seeyoufarm.com" style="float:right"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcgy0627%2Fhit-counter&count_bg=%23FFC15E&title_bg=%237D7D7D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<!-- <a href="https://hits.seeyoufarm.com" style="float:right"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcgy0627%2Fhit-counter&count_bg=%23FFC15E&title_bg=%237D7D7D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a> -->
 
 <div align="center">
   
