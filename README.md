@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cgy0627)](https://solved.ac/cgy0627)
 <!--   ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cgy0627&layout=compact) -->
   
+</br>
+
 <!--  https://soo-vely-dev.tistory.com/159 참고 -->
   # 💪Skills
   ### Languages & Frameworks
@@ -53,7 +55,7 @@ Here are some ideas to get you started:
   ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)
   ![Slack](https://img.shields.io/badge/Slack-4A154B.svg?&style=for-the-badge&logo=Slack&logoColor=white)
 <!--   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white) -->
-
+</br>
 
   # :mailbox_with_mail: Contacts
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jennygychae@gmail.com)](mailto:jennygychae@gmail.com)
