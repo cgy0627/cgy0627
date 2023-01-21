@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   ![GY's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=cgy0627&show_icons=true&theme=radical)
   
   [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cgy0627)](https://solved.ac/cgy0627)
-  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cgy0627&layout=compact)
+<!--   ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cgy0627&layout=compact) -->
   
 <!--  https://soo-vely-dev.tistory.com/159 참고 -->
   # 💪Skills
