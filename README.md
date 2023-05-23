@@ -63,8 +63,8 @@ Here are some ideas to get you started:
   </br>
 
   # :mailbox_with_mail: Contacts
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jennygychae@gmail.com)](mailto:jennygychae@gmail.com)
-  [![Tech Blog Badge](http://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&link=https://hellorabbit.tistory.com/)](https://hellorabbit.tistory.com/)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jennygychae@gmail.com)](mailto:jennygychae@gmail.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/Tistory-black?style=for-the-badge&logo=Tistory&link=https://hellorabbit.tistory.com/)](https://hellorabbit.tistory.com/)
 
   ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
   
